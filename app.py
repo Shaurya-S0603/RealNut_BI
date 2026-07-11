@@ -20,7 +20,7 @@ from views.alerts import render as alerts_page
 # ==========================================================
 
 st.set_page_config(
-    page_title="Seller Intelligence",
+    page_title="SellerPilot",
     page_icon="📟",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -58,7 +58,7 @@ with st.sidebar:
 
     st.markdown(
         """
-# 📟 Seller Intelligence
+# 📟 SellerPilot
 
 **Blinkit Business Intelligence**
 """
