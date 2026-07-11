@@ -1,7 +1,7 @@
 """
 app.py
 
-Main entry point for RealNut Intelligence.
+Main entry point for SellerPilot.
 """
 
 import streamlit as st
