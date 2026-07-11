@@ -360,7 +360,7 @@ This project is licensed under the MIT License.
 
 **Shaurya Singhal**
 
-Computer Software Engineering Student
+Computer Science Student at NTU Singapore
 
 Game Developer • AI Programmer • Data Analytics Enthusiast
 
