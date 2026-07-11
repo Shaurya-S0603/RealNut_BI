@@ -20,8 +20,8 @@ from views.alerts import render as alerts_page
 # ==========================================================
 
 st.set_page_config(
-    page_title="RealNut Intelligence",
-    page_icon="🥜",
+    page_title="Seller Intelligence",
+    page_icon="📟",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -58,7 +58,7 @@ with st.sidebar:
 
     st.markdown(
         """
-# 🥜 RealNut Intelligence
+# 📟 Seller Intelligence
 
 **Blinkit Business Intelligence**
 """
