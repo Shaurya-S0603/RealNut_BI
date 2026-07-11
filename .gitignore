@@ -1,6 +1,55 @@
-.venv/
+# =====================================
+# Python
+# =====================================
 __pycache__/
-*.pyc
-logs/
-data/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment Variables
 .env
+
+# =====================================
+# Database
+# =====================================
+*.db
+*.sqlite
+*.sqlite3
+
+# =====================================
+# Logs
+# =====================================
+logs/
+*.log
+
+# =====================================
+# Uploaded Data
+# =====================================
+data/raw/
+data/processed/
+data/uploads/
+data/exports/
+
+# Ignore all Excel files in data
+data/**/*.xlsx
+data/**/*.xls
+data/**/*.csv
+
+# =====================================
+# Reports
+# =====================================
+reports/
+
+# =====================================
+# OS Files
+# =====================================
+.DS_Store
+Thumbs.db
