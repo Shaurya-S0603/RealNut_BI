@@ -1,7 +1,7 @@
 """
 database/db.py
 
-Database connection utilities for RealNut Intelligence.
+Database connection utilities for SellerPilot.
 
 This module provides a fresh SQLAlchemy engine whenever one
 is requested. This avoids stale connections after the database

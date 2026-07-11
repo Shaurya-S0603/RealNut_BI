@@ -1,7 +1,7 @@
 """
 pages/import_data.py
 
-Import page for RealNut Intelligence.
+Import page for SellerPilot.
 """
 
 import streamlit as st

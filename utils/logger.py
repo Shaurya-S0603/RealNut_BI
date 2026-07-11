@@ -1,7 +1,7 @@
 """
 utils/logger.py
 
-Central logging utility for RealNut Intelligence.
+Central logging utility for SellerPilot.
 
 Creates both console and file loggers.
 

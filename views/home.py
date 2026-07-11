@@ -36,9 +36,9 @@ def render():
     # ==========================================================
 
     page_header(
-        title="RealNut Intelligence",
+        title="SellerPilot",
         subtitle="Blinkit Seller Business Intelligence Platform",
-        icon="🥜",
+        icon="📟",
     )
 
     # ==========================================================
@@ -97,7 +97,7 @@ def render():
         metric_card(
             "Products",
             summary["products"],
-            "🥜",
+            "📟",
         )
 
     with c4:
@@ -420,7 +420,7 @@ Automatically identify
 
     with c1:
 
-        st.markdown("### 🥜 RealNut Intelligence")
+        st.markdown("### 📟 SellerPilot")
 
         st.write("Version **1.0.0**")
 
@@ -478,7 +478,7 @@ Automatically identify
     with left:
 
         st.caption(
-            "🥜 RealNut Intelligence | Executive Business Intelligence Platform"
+            "📟 SellerPilot | Executive Business Intelligence Platform"
         )
 
     with center:

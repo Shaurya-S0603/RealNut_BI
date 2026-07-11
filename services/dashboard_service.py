@@ -1,7 +1,7 @@
 """
 services/dashboard_service.py
 
-Dashboard data service for RealNut Intelligence.
+Dashboard data service for SellerPilot.
 
 This service provides all data required by the Streamlit UI.
 No page should query SQLite directly.

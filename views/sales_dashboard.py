@@ -410,7 +410,7 @@ to the previous week.
     with footer_left:
 
         st.caption(
-            "🥜 RealNut Intelligence | Sales Analytics Dashboard"
+            "📟 SellerPilot | Sales Analytics Dashboard"
         )
 
     with footer_right:

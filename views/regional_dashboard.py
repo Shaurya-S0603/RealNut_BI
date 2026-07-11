@@ -417,7 +417,7 @@ Top City Contribution: **{top_city_share:.1f}%**
     with left:
 
         st.caption(
-            "🥜 RealNut Intelligence | Regional Analytics"
+            "📟 SellerPilot | Regional Analytics"
         )
 
     with right:

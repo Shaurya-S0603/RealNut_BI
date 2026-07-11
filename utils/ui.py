@@ -1,7 +1,7 @@
 """
 utils/ui.py
 
-Reusable UI components for RealNut Intelligence.
+Reusable UI components for SellerPilot.
 """
 
 from pathlib import Path

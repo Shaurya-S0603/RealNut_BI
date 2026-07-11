@@ -1,7 +1,7 @@
 """
 config/settings.py
 
-Central configuration for RealNut Intelligence.
+Central configuration for SellerPilot.
 
 All project paths are defined here.
 No other file should hardcode file or folder paths.
@@ -60,7 +60,7 @@ CLEAN_SALES_FILE = PROCESSED_DATA_DIR / "sales_clean.csv"
 # Application
 # ==========================================================
 
-APP_NAME = "RealNut Intelligence"
+APP_NAME = "SellerPilot"
 
 APP_VERSION = "1.0.0"
 
